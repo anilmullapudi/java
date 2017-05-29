@@ -1,3 +1,0 @@
-INDEX VERSION 1.130+/home/anil/git/java/Spring 4.3.8/.metadata/.plugins/org.eclipse.jdt.core
-1178721467.index
-962092405.index

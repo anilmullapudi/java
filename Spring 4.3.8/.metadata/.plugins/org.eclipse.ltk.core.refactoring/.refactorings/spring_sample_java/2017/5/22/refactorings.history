@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;service&apos; in &apos;AppConfig.getCustomerService()&apos; to &apos;customerService&apos;&#x0A;- Original project: &apos;spring_sample_java&apos;&#x0A;- Original element: &apos;AppConfig.getCustomerService().service&apos;&#x0A;- Renamed element: &apos;service&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;service&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java&lt;{AppConfig.java[AppConfig~getCustomerService@service!333!389!353!359!QCustomerServiceImpl;!0!false" name="customerService" references="true" stamp="1496090633584" version="1.0"/>
-</session>
